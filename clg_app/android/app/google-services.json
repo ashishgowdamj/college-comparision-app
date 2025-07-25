@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248267694318",
+    "project_id": "college-app-593d9",
+    "storage_bucket": "college-app-593d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248267694318:android:6c2e955b781a6e3168d3ff",
+        "android_client_info": {
+          "package_name": "com.example.clg_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9SkzK4St74N3O_4mYBmfXhNC6zyqNVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
